@@ -1,0 +1,6 @@
+flutter_app/
+backend/
+admin_dashboard/
+database/
+docs/
+.gitignore
