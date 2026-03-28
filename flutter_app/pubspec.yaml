@@ -1,0 +1,25 @@
+name: school_attendance_app
+
+description: A School Attendance Management application for teachers, parents, and admin dashboard.
+
+version: 1.0.0
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.14.0
+  provider: ^6.0.0
+  shared_preferences: ^2.0.10
+  flutter_local_notifications: ^9.6.0
+  intl: ^0.17.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
